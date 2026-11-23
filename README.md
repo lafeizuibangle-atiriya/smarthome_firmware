@@ -1,11 +1,11 @@
-# smart_home_firmware
+# smarthome_firmware
 
 ![STM32](https://img.shields.io/badge/MCU-STM32L431VCTx-075fba)
 ![Keil](https://img.shields.io/badge/IDE-Keil%20MDK--ARM-5b8f32)
 ![ESP8285](https://img.shields.io/badge/WiFi-ESP8285-orange)
 ![MQTT](https://img.shields.io/badge/Protocol-MQTT-blue)
 
-智慧家居项目的STM32固件。芯片为 STM32L431VCTx，通过 ESP8285 WiFi 模块以 MQTT 接入华为云 IoTDA，与 HarmonyOS App、Spring Boot 后端配合使用。配套的 App 与后端见 `smarthome_project`。
+智慧家居项目的STM32固件。芯片为 STM32L431VCTx，通过 ESP8285 WiFi 模块以 MQTT 接入华为云 IoTDA，与 HarmonyOS App、Spring Boot 后端配合使用。配套的 App 与后端见 `smarthome_app`。
 
 ## 功能
 
