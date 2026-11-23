@@ -1,0 +1,27 @@
+# 本地私有连接参数（WiFi 与华为云凭据）
+Inc/user_config.h
+
+# Keil MDK 构建输出
+MDK-ARM/Smart_Home_Demo/
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.map
+*.htm
+*.lnp
+*.sct
+*.dep
+*.lst
+*.bak
+build_log.txt
+build_buddy.log
+build_buddy.txt
+
+# Keil 用户界面状态
+*.uvguix.*
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
